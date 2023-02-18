@@ -1,0 +1,3 @@
+copy file path in conda terminal
+Add image in class_data folder (naam.registrationnumber.jpg)
+run python main.py
